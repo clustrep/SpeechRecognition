@@ -1,0 +1,10 @@
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\bin\Debug\SpeakingWithFer.exe.config
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\bin\Debug\SpeakingWithFer.exe
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\bin\Debug\SpeakingWithFer.pdb
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\obj\Debug\SpeakingWithFer.Form1.resources
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\obj\Debug\SpeakingWithFer.Properties.Resources.resources
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\obj\Debug\SpeakingWithFer.csproj.GenerateResource.cache
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\obj\Debug\SpeakingWithFer.csproj.CoreCompileInputs.cache
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\obj\Debug\SpeakingWithFer.exe
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\obj\Debug\SpeakingWithFer.pdb
+D:\projects\SpeakingWebSite\SpeakingWithFer\SpeakingWithFer\obj\Debug\SpeakingWithFer.csproj.AssemblyReference.cache
